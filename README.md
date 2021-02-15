@@ -1,3 +1,8 @@
 # Learning App Architecture Persistence by build small test app.
 
-!App architecture
+Using by
+* MVVM Architecture
+* DAO
+* Room
+* Coroutines
+* Database(SQLite)
